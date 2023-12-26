@@ -1,3 +1,3 @@
 # projeto_perguntas
 
-APP de perguntas para definir seu nível.
+Projeto Quiz do curso de Flutter da COD3R
