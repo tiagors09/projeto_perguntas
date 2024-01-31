@@ -9,13 +9,13 @@ Certifique-se de ter o Flutter instalado em sua máquina. Se ainda não tiver, v
 Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/meu-projeto-flutter.git
+git clone https://github.com/seu-usuario/projeto_perguntas.git
 ```
 
 Em seguida, entre no diretório do projeto:
 
 ```bash
-cd meu-projeto-flutter
+cd projeto_perguntas
 ```
 
 Instale as dependências:
